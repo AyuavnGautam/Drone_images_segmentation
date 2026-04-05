@@ -1,0 +1,23 @@
+# Model files (large)
+*.pt
+*.pth
+
+# Jupyter cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Output files
+segmentation_result.png
+*.png
+*.jpg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
